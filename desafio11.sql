@@ -1,2 +1,2 @@
-SELECT notes FROM northwind2.purchase_orders
+SELECT notes FROM purchase_orders
 WHERE notes LIKE  '%3_';
